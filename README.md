@@ -34,6 +34,13 @@ Use any model you want — [Nous Portal](https://portal.nousresearch.com), OpenR
 
 ## Quick Install
 
+### One-Click Deploy
+
+<a href="https://repocloud.io/details/Hermes%20Agent/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/hermes-agent"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+<a href="https://marketplace.digitalocean.com/apps/hermes-agent"><img src="https://www.deploytodo.com/do-btn-blue.svg" alt="Deploy on DigitalOcean" height="42"></a>
+<a href="https://template.sealos.io/deploy?templateName=hermes-agent"><img src="https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg" alt="Deploy on Sealos" height="42"></a>
+
 ### Linux, macOS, WSL2
 
 ```bash
